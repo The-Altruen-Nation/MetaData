@@ -13,4 +13,4 @@
 
 
 
-There is no competition+.
+There is no competition+.</div>
